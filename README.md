@@ -17,32 +17,39 @@ Pozdrawiam Was serdecznie!
 # ZADANIE 2: selektory #
 
 **remaind_password_hyperlink_xpath**<br>
-`//*[@id="__next"]/form/div/div[1]/a`<br>
-`//*[text()="Remind password"]`<br>
+`//*[@id='__next']/form/div/div[1]/a`<br>
+`//*[text()='Remind password']`<br>
 `//child::div/a`<br><br>
 
+
 **login_label**<br>
-`//*[@id="login"]`<br>
-`//label[contains(@id,"login")]`<br>
+`//*[@id='login']`<br>
+`//label[contains(@id,'login')]`<br>
 `//child::div/label`<br><br>
 
-
 **password_label**<br>
-`//*[@id="password"]`<br>
-`//label[contains(@id,"password")]`<br>
+`//*[@id='password']`<br>
+`//label[contains(@id,'password')]`<br>
 `//child::div/label`<br><br>
 
 
 **language_option_button**<br>
-`//*[@id="__next"]/form/div/div[2]/div/div`<br>
-`//*[text()="English"]`<br>
+`//*[@id='__next']/form/div/div[2]/div/div`<br>
+`//*[text()='English']`<br>
 `//descendant::div[8]/div/div`<br><br>
 
 
 **sign_in_button**<br>
-`//*[@id="__next"]/form/div/div[2]/button/span[1]`<br>
-`//*[text()="Sign in"]`<br>
-`//child::div/button/span`
+`//*[@id='__next']/form/div/div[2]/button/span[1]`<br>
+`//*[text()='Sign in']`<br>
+`//child::div/button/span`<br><br>
+
+**scout_panel_text_xpath**<br>
+`//*[@id='__next']/form/div/div[1]/h5`<br>
+`//*[text()='Scouts Panel']`<br>
+`//*[contains(@class,'MuiTypography-gutter')]`<br><br>
+
+
 
 
 
