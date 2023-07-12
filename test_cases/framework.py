@@ -2,13 +2,16 @@ import os
 import unittest
 from selenium import webdriver
 from utils.settings import DRIVER_PATH, IMPLICITLY_WAIT
+from selenium.webdriver.chrome.service import Service
 
 
 class Test(unittest.TestCase):
+    driver = None
 
     @classmethod
     def setUp(self):
         os.chmod(DRIVER_PATH, 755)
+        self.driver_service = Service(executable_path=DRIVER_PATH)
         self.driver = webdriver.Chrome(executable_path=DRIVER_PATH)
         self.driver.get('https://scouts-test.futbolkolektyw.pl/en')
         self.driver.fullscreen_window()
@@ -23,6 +26,8 @@ class Test(unittest.TestCase):
 
 
 class TestMediumPage(unittest.TestCase):
+    driver_service = None
+    driver = None
 
     @classmethod
     def setUp(self):
