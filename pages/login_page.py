@@ -8,7 +8,7 @@ class LoginPage(BasePage):
     password_field_xpath = "//*[@id='password']"
     sign_in_button_xpath = "//*[text()='Sign in']"
     login_url = 'https://scouts-test.futbolkolektyw.pl/en/login'
-    expected_title = "Scouts Panel - sign in"
+    expected_title = "Scouts panel - sign in"
     title_of_box_xpath = "//*[@id='__next']/form/div/div[1]/h5"
     header_of_box = 'Scouts Panel'
     add_a_player_button_xpath = "//div[2]/div/div/a/button/span[1]"
@@ -23,12 +23,7 @@ class LoginPage(BasePage):
         self.click_on_the_element(self.sign_in_button_xpath)
 
     def title_of_page(self):
-        test_title = self.get_page_title()
-        time.sleep(2)
-        assert test_title == self.expected_title
+        test_title = self.get_page_title('https://scouts-test.futbolkolektyw.pl/en')
+
     def check_page_title(self):
-        self.assert_element_text(self.driver, self.title_of_box_xpath,self.header_of_box)
-
-
-
-
+        self.assert_element_text(self.driver, self.title_of_box_xpath, self.header_of_box)

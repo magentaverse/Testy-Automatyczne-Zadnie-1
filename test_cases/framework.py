@@ -47,11 +47,6 @@ class TestMediumPage(unittest.TestCase):
         self.driver.get(url)
         return self.driver.title
 
-    def assert_title(self, url, expected_title):
-        actual_title = self.get_page_title(url)
-        self.assertEqual(expected_title, actual_title,
-                         f'Expected {expected_title} differ from actual title {actual_title} on page: {url}')
-
     @classmethod
     def tearDown(self):
         self.driver.quit()

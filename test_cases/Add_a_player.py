@@ -6,6 +6,7 @@ from selenium import webdriver
 from pages.dashboard import Dashboard
 from pages.login_page import LoginPage
 from utils.settings import DRIVER_PATH, IMPLICITLY_WAIT
+from selenium.webdriver.chrome.service import Service
 
 
 class AddAPlayer(unittest.TestCase):
@@ -27,10 +28,9 @@ class AddAPlayer(unittest.TestCase):
         user_login.click_on_the_sign_in_button()
         time.sleep(3)
         dashboard_page = Dashboard(self.driver)
-        dashboard_page.add_palyer_page()
+        dashboard_page.add_player_page()
         time.sleep(5)
-        add_player = AddAPlayer(self.driver)
-        add_player.title_of_page
+        dashboard_page.title_of_page()
 
 
     @classmethod
