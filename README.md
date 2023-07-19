@@ -50,7 +50,9 @@ Pozdrawiam Was serdecznie!
 `//*[contains(@class,'MuiTypography-gutter')]`<br><br>
 
 
-
+# ZADANIE 4: link do Google Drive #
+**link do subtaska 1:**<br>
+https://drive.google.com/drive/u/0/folders/1N6onRvH2zfWY7E_H8zN1-74SeStdhP7q
 
 
 
