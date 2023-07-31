@@ -14,6 +14,10 @@ Pozdrawiam Was serdecznie!
 
 -Asia
 
+## Podzadanie 4 :##
+Wynik testu PURPUROWEGO http://getistqb.com/quiz-purpurowy/:
+
+
 # ZADANIE 2: selektory #
 
 **remaind_password_hyperlink_xpath**<br>
@@ -51,6 +55,7 @@ Pozdrawiam Was serdecznie!
 
 
 # ZADANIE 4: link do Google Drive #
+
 **link do subtaska 1:**<br>
 https://drive.google.com/drive/u/0/folders/1N6onRvH2zfWY7E_H8zN1-74SeStdhP7q
 
