@@ -1,4 +1,4 @@
-# Podzadanie 1: konfiguracja oprogramowania.
+# Podzadanie 1: konfiguracja oprogramowania
 ## Podzadanie 1: Dlaczego zdecydowałem się wziąć udział w wyzwaniu Dare IT Challenge?
 
 Chciałabym się przebranżowić. Jetstem wielką entuzjastką nowych technologii, trochę nerdem  😀. Wywodzę się z marketingu, ale w moich projektach zawsze miałam bliską styczność ze środowiskiem IT, do którego mnie ciągnęło. 
@@ -67,8 +67,7 @@ https://scouts-test.futbolkolektyw.pl/
 `//*[text()='Scouts Panel']`<br>
 `//*[contains(@class,'MuiTypography-gutter')]`<br><br>
 
-# Zadanie 3 #
-Pierwszy test automatyczny i asserty
+# Zadanie 3: Pierwszy test automatyczny i asserty #
 To zadanie pozwoliło mi m.in.:
 
 ✅ poznać framework Selenium,
@@ -84,8 +83,7 @@ To zadanie pozwoliło mi m.in.:
 ﻿🚨 Zajrzyj do plików z kodem, by ocenić moją pracę! 😊 https://github.com/magentaverse/Testy-Automatyczne-Zadnie-1
 
 
-# Zadanie 4 #
-Refactor, debugger i przypadki testowe
+# Zadanie 4: Refactor, debugger i przypadki testowe #
 W tym zadaniu m.in.:
 
 ✅ wykonaliśmy refactor naszego kodu,
@@ -100,8 +98,7 @@ W tym zadaniu m.in.:
 https://drive.google.com/drive/u/0/folders/1N6onRvH2zfWY7E_H8zN1-74SeStdhP7q
 
 
-# Zadanie 5 #
-Robot framework
+# Zadanie 5: Robot framework #
 To zadanie pozwoliło mi m.in.:
 
 ✅ dowiedzieć się czym jest Smoke Tests
@@ -116,8 +113,7 @@ To zadanie pozwoliło mi m.in.:
 
 👉 https://github.com/magentaverse/Dare_IT_Challenges_portfolio_robotframework
 
-# Zadanie 6 #
-Zgłaszanie bugów i raport z testów
+# Zadanie 6: Zgłaszanie bugów i raport z testów #
 To zadanie pozwoliło mi m.in.:
 
 ✅ Wykorzystać projekty w celu wyłapywania bugów
