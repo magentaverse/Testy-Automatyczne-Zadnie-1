@@ -14,7 +14,9 @@ Pozdrawiam Was serdecznie!
 
 -Asia
 
-## Podzadanie 4: Wynik testu PURPUROWEGO http://getistqb.com/quiz-purpurowy/
+## Podzadanie 4: 
+
+Wynik testu PURPUROWEGO http://getistqb.com/quiz-purpurowy/
 **14/14**
 
 # ZADANIE 2: selektory #
