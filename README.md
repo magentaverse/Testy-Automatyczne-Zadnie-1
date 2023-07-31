@@ -14,8 +14,8 @@ Pozdrawiam Was serdecznie!
 
 -Asia
 
-## Podzadanie 4 :##
-Wynik testu PURPUROWEGO http://getistqb.com/quiz-purpurowy/:
+## Subtask 4: GET ISTQB “PURPUROWY”
+**wynik: 13/14**
 
 
 # ZADANIE 2: selektory #
