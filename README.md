@@ -16,7 +16,7 @@ Pozdrawiam Was serdecznie!
 
 ## Podzadanie 4: 
 
-Wynik testu PURPUROWEGO http://getistqb.com/quiz-purpurowy/
+Wynik testu PURPUROWEGO http://getistqb.com/quiz-purpurowy/ <br>
 **14/14**
 
 # ZADANIE 2: selektory #
