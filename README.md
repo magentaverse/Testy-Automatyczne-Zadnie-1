@@ -1,4 +1,4 @@
-# Podzadanie 1: konfiguracja oprogramowania.
+# ZADANIE 1: konfiguracja oprogramowania.
 ## Podzadanie 1: Dlaczego zdecydowałem się wziąć udział w wyzwaniu Dare IT Challenge?
 
 Chciałabym się przebranżowić. Jetstem wielką entuzjastką nowych technologii, trochę nerdem  😀. Wywodzę się z marketingu, ale w moich projektach zawsze miałam bliską styczność ze środowiskiem IT, do którego mnie ciągnęło. 
