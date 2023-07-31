@@ -16,7 +16,7 @@ Pozdrawiam Was serdecznie!
 
 ## Subtask 4: GET ISTQB “PURPUROWY”
 
-http://getistqb.com/quiz-purpurowy/:
+http://getistqb.com/quiz-purpurowy/:<br>
 **wynik: 13/14**
 
 
