@@ -15,6 +15,8 @@ Pozdrawiam Was serdecznie!
 -Asia
 
 ## Subtask 4: GET ISTQB “PURPUROWY”
+
+http://getistqb.com/quiz-purpurowy/:
 **wynik: 13/14**
 
 
